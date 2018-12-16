@@ -1,0 +1,9 @@
+C:\workspace\Statistics\Statistics\bin\Debug\Statistics.exe.config
+C:\workspace\Statistics\Statistics\bin\Debug\Statistics.exe
+C:\workspace\Statistics\Statistics\bin\Debug\Statistics.pdb
+C:\workspace\Statistics\Statistics\obj\Debug\Statistics.csprojResolveAssemblyReference.cache
+C:\workspace\Statistics\Statistics\obj\Debug\Statistics.Form1.resources
+C:\workspace\Statistics\Statistics\obj\Debug\Statistics.Properties.Resources.resources
+C:\workspace\Statistics\Statistics\obj\Debug\Statistics.csproj.GenerateResource.Cache
+C:\workspace\Statistics\Statistics\obj\Debug\Statistics.exe
+C:\workspace\Statistics\Statistics\obj\Debug\Statistics.pdb
